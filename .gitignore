@@ -1,0 +1,15 @@
+# IDE
+.idea
+.vscode
+*.iml
+
+# Java
+target/
+
+# Node
+node_modules
+dist
+build
+
+# logs
+*.log
